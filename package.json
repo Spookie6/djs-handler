@@ -1,0 +1,19 @@
+{
+  "name": "djs-base-handler-master",
+  "version": "1.0.0",
+  "description": "## Credits",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "glob": "^7.2.0",
+    "mongoose": "^6.2.9",
+    "ms": "^2.1.3"
+  }
+}
