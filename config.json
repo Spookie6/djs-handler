@@ -1,0 +1,10 @@
+{
+    "token": "TOKEN",
+    "prefix": "!",
+    "mongooseConnectionString": "",
+    "embedColor": "BLUE",
+    "testServerId": "ID_HERE",
+    "developers": ["ID_HERE"],
+    "clientName": "Cool Bot",
+    "clientAvatar": ""
+}
